@@ -10,8 +10,8 @@ Using digitalizations of Van Gogh’s paintings from the “Web Gallery of Art�
 # Data Gathering
 1. Database: https://www.wga.hu
 2. Form sample database:
-  a. Techniques used by van Gogh for more than 10 times
-  b. 1000 non-van Gogh paintings with the same techniques
+   - Techniques used by van Gogh for more than 10 times
+   - 1000 non-van Gogh paintings with the same techniques
 
 # Packages
 We use scikit-learn OpenCv and ripser to fiddle with many features, until we eventually decided to measure:
