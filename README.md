@@ -1,5 +1,11 @@
 # BootCampProject2020
-Project for the Boot Camp runned by the Erdos Institute, OSU, May 2020. 
+Project for the Boot Camp runned by the Erdos Institute, The Ohio State University, May 2020. 
+
+## Team Members
+- Joseph Leung
+- Francisco Martinez
+- Jiawei Sun
+- Ling Zhou
 
 # Problem and Goals
 Vincent van Gogh is a legendary Dutch painter from the mid 19th century. His huge legacy includes more than 860 oil paintings characterised by bold colors and dramatic, impulsive, and expressive brushwork [Wikipedia 2020].
