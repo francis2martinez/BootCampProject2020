@@ -27,3 +27,7 @@ We use scikit-learn OpenCv and ripser to fiddle with many features, until we eve
 
 # Persistance
 Since computing each of this is very time consuming, we used the package pickle to save a data frame with all the desired features.
+To do this run the Jupyter Notebooks in the following order (they will take a long time):
+
+1. Setting Up
+2. Unified Catalog
