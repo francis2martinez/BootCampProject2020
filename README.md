@@ -1,5 +1,5 @@
 # BootCampProject2020
-Project for the Boot Camp runned by the Erdos Institute, The Ohio State University, May 2020. 
+Project for the Boot Camp runned by the Erdos Institute, The Ohio State University, May 2020. Find our slides here: https://docs.google.com/presentation/d/11L6OxCQGkGJyTAa-eNjrDz0ml1L8SGbakbviW9XhUVI/edit?usp=sharing.
 
 ## Team Members
 - Joseph Leung
